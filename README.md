@@ -21,3 +21,5 @@ a collection of useful resource to build the Verilog project
   Indtro: https://www.youtube.com/watch?v=zRy-IZgh3qo  
   Code:
 
+#moving background
+https://youtu.be/06Txl3CS4y4
